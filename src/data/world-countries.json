@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": { "name": "USA" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[-125, 24], [-125, 50], [-66, 50], [-66, 24], [-125, 24]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Canada" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[-141, 42], [-141, 83], [-52, 83], [-52, 42], [-141, 42]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "United Kingdom" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[-8, 50], [-8, 61], [2, 61], [2, 50], [-8, 50]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "France" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[-5, 42], [-5, 51], [8, 51], [8, 42], [-5, 42]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Germany" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[5, 47], [5, 55], [15, 55], [15, 47], [5, 47]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Japan" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[129, 30], [129, 46], [146, 46], [146, 30], [129, 30]]]
+      }
+    }
+  ]
+}
